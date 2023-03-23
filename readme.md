@@ -22,15 +22,19 @@ uvicorn main:app --reload
 ### 
 
 
-### 작동영상 1
+### 작동영상 1<br>
 https://user-images.githubusercontent.com/80526924/227167920-a754fe28-2551-47b0-81cb-933832b82dbd.mp4
 
 <br>
 <br>
 <br>
 <br>
-### 작동영상 2
-https://user-images.githubusercontent.com/80526924/227167933-097eca61-8ade-4c68-95ef-13c0f87b55a9.mp4
+### 작동영상 2<br>
+
+https://user-images.githubusercontent.com/80526924/227168286-25d87ff5-770d-440f-b2ae-b841a0004ee7.mp4
+
+
+
 
 
 
